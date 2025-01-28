@@ -26,7 +26,7 @@ const obj4 = {5: "a", 6: "b"}
 // const obj3 = { obj1, obj2 } //{ obj1: { '1': 'a', '2': 'b' }, obj2: { '3': 'a', '4': 'b' } }
 // const obj5 = Object.assign({}, obj1, obj2, obj4)  //{ '1': 'a', '2': 'b', '3': 'a', '4': 'b', '5': 'a', '6': 'b' }
 
-// const obj6 = {...obj1, ...obj2} //{ '1': 'a', '2': 'b', '3': 'a', '4': 'b' }
+// const obj6 = {...obj1, ...obj2}//spread method ---> //{ '1': 'a', '2': 'b', '3': 'a', '4': 'b' }
 // console.log(obj3);
 // console.log(obj5);
 // console.log(obj6);
