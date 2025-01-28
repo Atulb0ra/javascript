@@ -7,9 +7,9 @@ let myDate = new Date()
 // console.log(typeof myDate);
 
 // let myCreatedDate = new Date(2023, 0, 23)
-// let myCreatedDate = new Date(2023, 0, 23, 5, 3)
+// let myCreatedDate = new Date(2023, 0, 23, 5, 3)//here month is 0 which is january month is 0 indexed 
 // let myCreatedDate = new Date("2023-01-14")
-let myCreatedDate = new Date("01-14-2023")
+let myCreatedDate = new Date("01-14-2023")//here month 1 is january
 // console.log(myCreatedDate.toLocaleString());
 
 let myTimeStamp = Date.now()
