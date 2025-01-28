@@ -9,10 +9,10 @@ const balance = new Number(100)
 
 const otherNumber = 123.8966
 
-// console.log(otherNumber.toPrecision(4));
+// console.log(otherNumber.toPrecision(4));//gives ans in e
 
 const hundreds = 1000000
-// console.log(hundreds.toLocaleString('en-IN'));
+// console.log(hundreds.toLocaleString('en-IN'));//1,00,000
 
 // +++++++++++++ Maths +++++++++++++++++++++++++++++
 
