@@ -1,4 +1,4 @@
-//var c = 300
+//var c = 300//don't use var since it is always used as global (u can say something like that)
 let a = 300
 if (true) {
     let a = 10
@@ -46,14 +46,13 @@ if (true) {
 
 console.log(addone(5))//this will work fine
 
-
 function addone(num){
     return num + 1
 }
 
 
 
-addTwo(5)
+addTwo(5)//this will give error
 const addTwo = function(num){
     return num + 2
 }
