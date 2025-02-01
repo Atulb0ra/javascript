@@ -22,7 +22,6 @@
 				"vscode-icons-team.vscode-icons",
 				"wayou.vscode-todo-highlight",
 				"ritwickdey.LiveServer",
-				"GitHub.copilot"
 			],
 			"settings": {
 				"editor.fontSize": 32,
