@@ -1,3 +1,4 @@
+//object literals
 const user = {
     username: "hitesh",
     loginCount: 8,
@@ -18,6 +19,8 @@ const user = {
 // console.log(this);
 
 
+
+//constructor function
 function User(username, loginCount, isLoggedIn){
     this.username = username;
     this.loginCount = loginCount;
